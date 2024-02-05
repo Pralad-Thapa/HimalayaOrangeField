@@ -1,0 +1,175 @@
+.exit-button6,
+.state-layer23 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.state-layer23 {
+    flex-direction: row;
+    padding: var(--padding-3xs) var(--padding-5xl);
+}
+
+.exit-button6 {
+    text-decoration: none;
+    box-sizing: border-box;
+    width: 2.38rem;
+    height: 2.38rem;
+    overflow: hidden;
+    flex-direction: column;
+}
+
+.what-this-place1 {
+    margin: 0;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    line-height: 2.5rem;
+    font-weight: 400;
+    font-family: inherit;
+}
+
+.what-this-place-offers-container {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.mountain-view-icon2 {
+    width: 1.19rem;
+    position: relative;
+    height: 1.25rem;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+
+.mountain-container,
+.mountain2 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.mountain2 {
+    width: 1.43rem;
+    height: 1.43rem;
+    padding: 0.12rem;
+    box-sizing: border-box;
+}
+
+.mountain-container {
+    width: 14.57rem;
+    gap: 0.95rem;
+}
+
+.hiking-71423-1-container {
+    width: 1.49rem;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0.12rem;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.fishing-2994120-1-icon {
+    width: calc(100% - 3.8px);
+    position: absolute;
+    margin: 0 !important;
+    height: calc(100% - 3.8px);
+    top: 0.12rem;
+    right: 0.12rem;
+    bottom: 0.12rem;
+    left: 0.12rem;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    z-index: 0;
+}
+
+.fishing {
+    flex: 1;
+    position: relative;
+    letter-spacing: 0.5px;
+    line-height: 1.5rem;
+}
+
+.frame-parent59 {
+    width: 14.57rem;
+    height: 1.49rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0.95rem;
+}
+
+.restaurant-line-icon {
+    width: 1.43rem;
+    position: relative;
+    height: 1.43rem;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+
+.breadfast-lunch {
+    flex: 1;
+    position: relative;
+    letter-spacing: 0.5px;
+    line-height: 1.5rem;
+}
+
+.frame-parent57 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0.95rem;
+    font-size: var(--m3-body-large-size);
+}
+
+.facilities1 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.95rem;
+    text-align: left;
+    font-size: var(--m3-headline-large-size);
+    color: var(--color-black);
+    font-family: var(--m3-title-large);
+    margin: 3rem 0px;
+}
+
+.iphone-13-14-3 {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    padding: 1rem;
+}
+
+@media only screen and (min-width: 768px) {
+    .facilities1 {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (min-width: 1280px) {
+    .facilities1 {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

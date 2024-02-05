@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+:root {
+    /* fonts */
+    --m3-title-large: Roboto;
+    --font-athiti: Athiti;
+    --font-plus-jakarta-sans: "Plus Jakarta Sans";
+
+    /* font sizes */
+    --m3-title-large-size: 1.38rem;
+    --font-size-sm-4: 0.84rem;
+    --m3-body-medium-size: 0.88rem;
+    --m3-body-large-size: 1rem;
+    --m3-headline-large-size: 2rem;
+    --font-size-mid-2: 1.08rem;
+    --font-size-base-1: 0.94rem;
+    --font-size-base-9: 1.06rem;
+    --m3-display-small-size: 2.25rem;
+    --font-size-sm-8: 0.86rem;
+
+    /* Colors */
+    --schemes-surface: #fff8f5;
+    --schemes-primary-container: #ffdcc5;
+    --schemes-primary: #8a5021;
+    --schemes-on-primary: #fff;
+    --gray: #868686;
+    --schemes-outline: #84746a;
+    --schemes-on-surface: #221a15;
+    --schemes-on-primary-container: #301400;
+    --schemes-on-tertiary-container: #1b1d00;
+    --schemes-tertiary: #5e6135;
+    --color-crimson: #e43939;
+    --color-black: #000;
+    --schemes-surface-container: #fbebe1;
+    --schemes-surface-container-high: #f6e5dc;
+    --schemes-outline-variant: #d6c3b7;
+    --dark-grey: #6a6a6a;
+    --schemes-secondary: #755945;
+    --schemes-tertiary-container: #e4e6ae;
+    --color-gainsboro: #d9d9d9;
+    --schemes-surface-variant: #f3dfd2;
+
+    /* Gaps */
+    --gap-5xs: 0.5rem;
+    --gap-3xs: 0.63rem;
+    --gap-5xl: 1.5rem;
+    --gap-lg-8: 1.18rem;
+    --gap-11xs-8: 0.11rem;
+    --gap-base: 1rem;
+    --gap-sm-7: 0.86rem;
+    --gap-xs: 0.75rem;
+    --gap-9xs-8: 0.24rem;
+    --gap-9xs-5: 0.22rem;
+    --gap-7xs: 0.38rem;
+    --gap-xl: 1.25rem;
+    --gap-13xl: 2rem;
+    --gap-base-2: 0.95rem;
+
+    /* Paddings */
+    --padding-3xs: 0.63rem;
+    --padding-base: 1rem;
+    --padding-6xs-3: 0.39rem;
+    --padding-mini: 0.94rem;
+    --padding-11xs-7: 0.11rem;
+    --padding-8xs-8: 0.3rem;
+    --padding-smi-8: 0.8rem;
+    --padding-5xs-7: 0.48rem;
+    --padding-8xs: 0.31rem;
+    --padding-5xs: 0.5rem;
+    --padding-5xl: 1.5rem;
+    --padding-11xl: 1.88rem;
+    --padding-11xs-9: 0.12rem;
+
+    /* Border radiuses */
+    --br-base: 16px;
+    --br-43xl-5: 62.5px;
+    --br-6xs-4: 6.4px;
+    --br-xl: 20px;
+    --br-3xs: 10px;
+    --br-81xl: 100px;
+}

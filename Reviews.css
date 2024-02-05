@@ -1,0 +1,285 @@
+.vector-icon10 {
+    width: 1.25rem;
+    position: relative;
+    height: 1.25rem;
+}
+
+.state-layer16 {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-3xs) var(--padding-5xl);
+}
+
+.exit-button4 {
+    cursor: pointer;
+    padding: 0;
+    background-color: transparent;
+    box-sizing: border-box;
+    width: 2.38rem;
+    height: 2.38rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}
+
+.frame6 {
+    width: 3.75rem;
+    height: 2.19rem;
+}
+
+.barrier-child7 {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.barrier9 {
+    position: absolute;
+    top: 0;
+    left: 0.06rem;
+    width: 22.19rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-3xs);
+    box-sizing: border-box;
+}
+
+.frame8 {
+    position: absolute;
+    top: 295.94rem;
+    left: 0;
+    width: 22.25rem;
+    height: 1.25rem;
+    overflow: hidden;
+}
+
+.frame-child67 {
+    width: 3.75rem;
+    position: relative;
+    border-radius: 50%;
+    height: 3.75rem;
+    object-fit: cover;
+}
+
+.madhura-sarkar1 {
+    flex: 1;
+    position: relative;
+    line-height: 1.75rem;
+}
+
+.madhura-sarkar-container {
+    width: 9.31rem;
+    height: 1.75rem;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.frame-child68 {
+    object-fit: cover;
+}
+
+.frame-child68,
+.frame-child72 {
+    width: 1.47rem;
+    position: relative;
+    height: 1.47rem;
+}
+
+.frame-wrapper17,
+.instance-parent8 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.frame-wrapper17 {
+    align-items: center;
+    justify-content: center;
+}
+
+.ellipse-parent8,
+.frame-parent40 {
+    height: 3.75rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+}
+
+.ellipse-parent8 {
+    width: 14.56rem;
+    flex-direction: row;
+    gap: var(--gap-5xl);
+}
+
+.blank-line {
+    margin: 0;
+}
+
+.beautiful-homestay-their-container {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--m3-body-large-size);
+    letter-spacing: 0.5px;
+    line-height: 1.5rem;
+    font-family: var(--m3-title-large);
+    color: var(--gray);
+}
+
+.frame-parent39 {
+    align-self: stretch;
+    border-radius: var(--br-base);
+    background-color: var(--schemes-surface-container-high);
+    border: 3px solid var(--schemes-outline-variant);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-11xl);
+    gap: 2.5rem;
+    text-align: left;
+    font-size: var(--m3-title-large-size);
+    color: var(--color-black);
+    font-family: var(--font-athiti);
+}
+
+.we-spent-121 {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--m3-body-large-size);
+    letter-spacing: 0.5px;
+    line-height: 1.5rem;
+    color: var(--gray);
+}
+
+.dawa-lamu-sherpa-container,
+.frame-parent41 {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+}
+
+.frame-parent41 {
+    border-radius: var(--br-base);
+    background-color: var(--schemes-surface-container-high);
+    border: 3px solid var(--schemes-outline-variant);
+    box-sizing: border-box;
+    height: 22.25rem;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: var(--padding-11xl);
+    gap: var(--gap-13xl);
+    text-align: left;
+    font-size: var(--m3-title-large-size);
+    color: var(--color-black);
+    font-family: var(--m3-title-large);
+}
+
+.dawa-lamu-sherpa-container {
+    height: 1.75rem;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.ellipse-parent11,
+.ellipse-parent14,
+.frame-parent46 {
+    height: 3.75rem;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.frame-parent46 {
+    flex: 1;
+    flex-direction: column;
+    gap: var(--gap-3xs);
+}
+
+.ellipse-parent11,
+.ellipse-parent14 {
+    width: 17.31rem;
+    flex-direction: row;
+    gap: var(--gap-5xl);
+}
+
+.ellipse-parent14 {
+    width: 16.75rem;
+}
+
+.reviewers,
+.reviewers-inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.reviewers-inner {
+    align-self: stretch;
+    border-radius: var(--br-base);
+    background-color: var(--schemes-surface-container-high);
+    border: 3px solid var(--schemes-outline-variant);
+    box-sizing: border-box;
+    height: 22.25rem;
+    align-items: flex-start;
+    padding: var(--padding-11xl);
+    text-align: left;
+    font-size: var(--m3-title-large-size);
+    color: var(--color-black);
+    font-family: var(--m3-title-large);
+}
+
+.reviewers {
+    align-items: center;
+    gap: var(--gap-xl);
+    margin: 2rem 0px;
+}
+
+.frame7 {
+    position: absolute;
+    top: 7.5rem;
+    left: 1rem;
+    width: 22.38rem;
+    height: 297.19rem;
+    overflow: hidden;
+}
+
+.iphone-13-14-5 {
+    position: relative;
+    overflow: hidden;
+    padding: 1rem;
+}
+
+.material-symbols-outlined {
+    color: #278440;
+}
+
+@media only screen and (min-width: 768px) {
+    .reviewers {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (min-width: 1280px) {
+    .reviewers {
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

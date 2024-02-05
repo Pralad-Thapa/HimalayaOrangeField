@@ -1,0 +1,49 @@
+.state-layer14 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.exit-button2,
+.frame4 {
+    overflow: hidden;
+}
+
+.exit-button2 {
+    width: 2.38rem;
+    height: 2.38rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.frame4 {
+    padding: 1rem;
+}
+
+.iphone-13-14-7 {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.container {
+    margin-top: 24rem;
+}
+
+@media only screen and (min-width: 600px) {
+    .container {
+        margin-top: 7rem;
+        width: 80% !important;
+    }
+}
+
+@media only screen and (min-width: 1280px) {
+    .container {
+        margin-top: 3rem;
+        width: 60% !important;
+    }
+}

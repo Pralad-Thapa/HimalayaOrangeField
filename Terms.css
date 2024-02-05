@@ -1,0 +1,177 @@
+.vector-icon6 {
+    width: 1.25rem;
+    position: relative;
+    height: 1.25rem;
+    object-fit: cover;
+}
+
+.state-layer12 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-3xs) var(--padding-5xl);
+}
+
+.exit-button,
+.frame1 {
+    overflow: hidden;
+}
+
+.exit-button {
+    cursor: pointer;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    box-sizing: border-box;
+    width: 2.38rem;
+    height: 2.38rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.terms-and-conditions2 {
+    margin: 0;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    line-height: 2.5rem;
+    font-weight: 400;
+    font-family: inherit;
+}
+
+.terms-and-conditions-container {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.effective-date-16th {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--m3-body-large-size);
+    letter-spacing: 0.5px;
+    line-height: 1.5rem;
+}
+
+.frame-parent25 {
+    align-self: stretch;
+    height: 4.06rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.24rem;
+}
+
+.acceptance-of-terms {
+    flex: 1;
+    position: relative;
+    letter-spacing: 0.47px;
+    line-height: 1.41rem;
+    font-weight: 600;
+    font-size: var(--m3-body-large-sizeS);
+}
+
+.acceptance-of-terms-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.by-accessing-and {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--m3-body-large-size);
+    letter-spacing: 0.5px;
+    line-height: 1.5rem;
+    font-family: var(--m3-title-large);
+}
+
+.frame-section {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 0.24rem;
+    text-align: left;
+    font-size: var(--font-size-base-1);
+    color: var(--color-black);
+    font-family: var(--font-athiti);
+}
+
+.external-links {
+    align-self: stretch;
+    position: relative;
+    letter-spacing: 0.47px;
+    line-height: 1.41rem;
+    font-weight: 600;
+}
+
+.external-links-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.if-you-have,
+.terms-and-conditions1 {
+    text-align: left;
+    color: var(--color-black);
+    font-family: var(--m3-title-large);
+}
+
+.if-you-have {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--m3-body-large-size);
+    letter-spacing: 0.5px;
+    line-height: 1.5rem;
+}
+
+.terms-and-conditions1 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0.47rem;
+    font-size: var(--m3-headline-large-size);
+}
+
+.frame2 {
+    overflow: hidden;
+    margin: 3rem 0px;
+}
+
+.iphone-13-14-9 {
+    position: relative;
+    overflow: hidden;
+    padding: 1rem;
+}
+
+@media only screen and (min-width: 768px) {
+    .frame2 {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (min-width: 1280px) {
+    .frame2 {
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

@@ -1,0 +1,140 @@
+.iphone-13-14-2 {
+    position: relative;
+    overflow: hidden;
+    padding: 1rem;
+}
+
+.exit-button7,
+.state-layer24 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.exit-button7 {
+    text-decoration: none;
+    box-sizing: border-box;
+    width: 2.38rem;
+    height: 2.38rem;
+    overflow: hidden;
+    flex-direction: column;
+}
+
+.state-layer24 {
+    flex: 1;
+    flex-direction: row;
+    padding: var(--padding-3xs) var(--padding-5xl);
+}
+
+.about-the-place-group,
+.description1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.description1 {
+    width: 100%;
+    margin: 2rem 0px;
+}
+
+.about-the-place-group {
+    align-self: stretch;
+    gap: 0.888rem;
+    text-align: left;
+    font-size: var(--m3-body-large-size);
+    color: var(--color-black);
+    font-family: var(--m3-title-large);
+}
+
+.about-the-place1 {
+    margin: 0;
+    align-self: stretch;
+    position: relative;
+    font-size: var(--m3-headline-large-size);
+    line-height: 2.5rem;
+    font-weight: 400;
+    font-family: inherit;
+}
+
+.frame-wrapper27,
+.welcome-to-our-enchanting-home-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.frame-wrapper27 {
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.our-homestay-features {
+    flex: 1;
+    position: relative;
+    letter-spacing: 0.5px;
+    line-height: 1.5rem;
+}
+
+.accommodation-wrapper {
+    align-self: stretch;
+    height: 1.26rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: var(--m3-title-large-size);
+}
+
+.accommodation {
+    margin: 0;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    line-height: 1.75rem;
+    font-weight: 400;
+    font-family: inherit;
+}
+
+.location-container {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: var(--m3-title-large-size);
+}
+
+.accommodation {
+    margin: 0;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    line-height: 1.75rem;
+    font-weight: 400;
+    font-family: inherit;
+}
+
+.our-dedicated-and {
+    margin: 0;
+}
+
+@media only screen and (min-width: 768px) {
+    .description1 {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (min-width: 1280px) {
+    .description1 {
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

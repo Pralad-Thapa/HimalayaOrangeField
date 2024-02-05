@@ -1,0 +1,71 @@
+.state-layer15 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-3xs) var(--padding-5xl);
+}
+
+.exit-button3,
+.frame5 {
+    overflow: hidden;
+}
+
+.exit-button3 {
+    cursor: pointer;
+    padding: 0;
+    background-color: transparent;
+    box-sizing: border-box;
+    width: 2.38rem;
+    height: 2.38rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}
+
+.frame5 {
+    height: 2.19rem;
+}
+
+.iphone-13-14-6 {
+    position: relative;
+    overflow: hidden;
+    padding: 1rem;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+    margin: 1rem 0px;
+}
+
+.column {
+    flex: 100%;
+    max-width: 100%;
+    padding: 0 4px;
+}
+
+.column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+@media only screen and (min-width: 768px) {
+    .row {
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (min-width: 1280px) {
+    .row {
+        width: 55%;
+        padding: 0;
+    }
+}
